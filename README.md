@@ -13,4 +13,41 @@ This project is a fully secure, production-ready authentication system built wit
 - Fully typed forms with client-side + server-side validation
 - Beautiful, responsive UI with accessible components
 
+## Run Locally
+Clone the project
+
+```bash
+  git clone https://github.com/coderrony/complete-authentication-system.git
+```
+
+Go to the project directory
+
+```bash
+  cd complete-authentication-system
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+Create a .env file in the root directory and fill in the values according to .env.example
+
+```bash
+  touch .env
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+Run on browser
+
+```bash
+  http://localhost:3000/
+```
+
+
 
