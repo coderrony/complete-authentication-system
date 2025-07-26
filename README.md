@@ -4,6 +4,7 @@ This project is a fully secure, production-ready authentication system built wit
 - NextAuth.js for flexible and secure authentication (including OAuth support)
 - React Hook Form + Zod for robust and type-safe form handling and validation
 - Resend for reliable email verification and password reset workflows
+- Prisma for ORM support
 - Shadcn UI for a polished and responsive user interface
 
 ## ✨ Features
